@@ -21,3 +21,11 @@
 
 ---
 銘柄の照合に「さけのわデータ」を利用しています。お酒は20歳になってから。
+
+## ストア画面写真のクレジット
+App Storeの画面写真では、次のWikimedia Commonsの写真を使用しています。
+- 獺祭 錦帯橋 — Breizhiz75（CC BY-SA 4.0）
+- 純米大吟醸 久保田、純米吟醸 磯自慢、純米吟醸 酔鯨、純米大吟醸 みむろ杉、純米吟醸 大辛口 三井の寿 — Kozakura154（CC BY 4.0）
+- やまとしずく生酛純米 — Nbarth（CC BY-SA 3.0）
+
+出典：[Wikimedia Commons](https://commons.wikimedia.org/)。写真はアプリの画面に合わせて切り抜いています。
